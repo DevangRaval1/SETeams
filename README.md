@@ -1,5 +1,7 @@
 # Software Engineering
 
+## CSCI 430 (Fall 2022):
+*[Bracket Maker](bracketmaker.md)
 
 ## CSCI 430 (Spring 2022):
 
